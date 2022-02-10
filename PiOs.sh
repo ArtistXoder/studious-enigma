@@ -12,5 +12,5 @@ esac
 sudo apt update
 sudo apt upgrade
 sudo apt install libreoffice
-sudo apt-get install libwidevinecdm0
+sudo apt install chromium-browser:armhf libwidevinecdm0
 sudo apt-get install trash-cli
